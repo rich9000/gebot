@@ -1708,7 +1708,7 @@ class GalacticEmpire {
 	}
 
 	
-	function scanSpyReport($updateDB = true,$showList = false){
+	function scanSpyReport($updateDB = true,$showList = false,$logfile = false ){
 		
 		$attackList = array();
 		$totalArray = array();
@@ -1824,7 +1824,7 @@ class GalacticEmpire {
 						
 				echo "No Fleet!\n";
 				$dataArray['Fleet'] = false;
-				$fleet = false;
+				$fleet = 0;
 				
 			} else {
 				
@@ -1843,7 +1843,7 @@ class GalacticEmpire {
 				
 				if($count == 0){
 				
-					$fleet = false;
+					$fleet = 0;
 					echo "No fleet only solar!\n";
 				
 				} else {
@@ -1858,7 +1858,7 @@ class GalacticEmpire {
 			if(!key_exists('Defense',$dataArray)){
 				
 				$dataArray['Defense'] = false;
-				$defense = false;
+				$defense = 0;
 				echo "No Defense!\n";
 				
 			} else {
@@ -1889,7 +1889,7 @@ class GalacticEmpire {
 				if($count == 0){
 					echo "No Defense! Only Missiles and/or Shields! $count\n";
 					var_dump($dataArray['Defense']);
-					$defense = false;
+					$defense = 0;
 					
 				} else {
 					var_dump($dataArray['Defense']);
@@ -1906,6 +1906,100 @@ class GalacticEmpire {
 			echo "\n";
 			$time = time();
 			
+			
+			
+			
+			
+			
+			$fleet_count = 0;
+			
+			if($dataArray['Fleet']){
+									
+				foreach ($dataArray['Fleet'] as $key => $val){
+					
+					$fleet_count += $val;
+										
+				}				
+			}
+				
+			$fleetstring = serialize($dataArray['Fleet']);
+				
+			
+			
+			$defense_count = 0;
+			
+			if($dataArray['Defense']){
+				
+				foreach ($dataArray['Defense'] as $key => $val){
+					
+					$defense_count += $val;
+					
+				}
+				
+				
+				
+			} 
+			$defensestring = serialize($dataArray['Defense']);
+		
+				
+			
+			
+			// update fleet and defense info into db		
+			$query = "update bot_planets set planet_defense_count='$defense_count', planet_fleet_count = 'planet_count', planet_defense_array = '$defensestring', planet_fleet_array = '$fleetstring' where planet_coords = '{$coords[0]}:{$coords[1]}:{$coords[2]}'";
+			
+			//echo "$query\n";
+			// WE ALWAYS WANT TO UPDATE THIS ONE
+			$rslt = mysql_query($query);
+			if(!$rslt) echo $query;
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			if($logfile){
+				
+				$logdata = "";
+				
+				$totalMats = round($totalMats);
+				
+				$logdata .= "$planetName {$coords[0]}:{$coords[1]}:{$coords[2]} $metal/$crystal/$deut $totalMats\n";
+				
+				if($dataArray['Fleet']){
+					
+					$logdata .= "Fleet\n";
+					
+					foreach ($dataArray['Fleet'] as $key => $val){
+						
+						$logdata .= "	$val $key\n";
+						
+						
+					}
+					
+					
+					
+				}
+				
+				if($dataArray['Defense']){
+					
+					$logdata .= "Defense\n";
+					
+					foreach ($dataArray['Defense'] as $key => $val){
+						
+						$logdata .= "	$val $key\n";						
+						
+					}					
+				}
+							
+				file_put_contents('log/probed_info.log',$logdata, FILE_APPEND);
+							
+			}
+						
 			if(!$defense &&  !$fleet){
 						
 				if($updateDB){
@@ -1917,6 +2011,8 @@ class GalacticEmpire {
 					if(!$rslt) echo $query;
 					
 				}
+				
+				
 												
 				$attackList[$attackcount]['total'] = round($totalMats);
 				$attackList[$attackcount]['metal'] = $metal;
