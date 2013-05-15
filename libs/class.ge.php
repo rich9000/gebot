@@ -134,7 +134,9 @@ class GalacticEmpire {
 	public $debugfile = 'class.ge.debug';
 	
 	/**
-	 * Galactic Empire Constructor. It will do the connecting at some point, right now it does very little.
+	 * Galactic Empire Constructor
+	 * 
+	 *  It will do the connecting at some point, right now it does very little.
 	 *
 	 * @param string $user user name
 	 * @param string_type $password password
@@ -1758,7 +1760,7 @@ class GalacticEmpire {
 			
 			$query = "update bot_planets set planet_metal='$metal', planet_crystal = '$crystal',planet_deuterium='$deut', planet_udate = '$time' where planet_coords = '{$coords[0]}:{$coords[1]}:{$coords[2]}'";
 			
-			echo "$query\n";
+			//echo "$query\n";
 	
 			// WE ALWAYS WANT TO UPDATE THIS ONE
 			$rslt = mysql_query($query);
@@ -1821,6 +1823,7 @@ class GalacticEmpire {
 			if(!key_exists('Fleet',$dataArray)){
 						
 				echo "No Fleet!\n";
+				$dataArray['Fleet'] = false;
 				$fleet = false;
 				
 			} else {
@@ -1854,7 +1857,7 @@ class GalacticEmpire {
 	
 			if(!key_exists('Defense',$dataArray)){
 				
-				
+				$dataArray['Defense'] = false;
 				$defense = false;
 				echo "No Defense!\n";
 				
@@ -1924,6 +1927,8 @@ class GalacticEmpire {
 				$attackList[$attackcount]['position'] = $coords[2];
 				$attackList[$attackcount]['planet'] = $coords[2];
 				$attackList[$attackcount]['coords'] = "{$coords[0]}:{$coords[1]}:{$coords[2]}"; 
+				$attackList[$attackcount]['defense'] = $dataArray['Defense']; 
+				$attackList[$attackcount]['fleet'] = $dataArray['Fleet']; 
 				$attackcount++;
 				
 				
@@ -1936,6 +1941,8 @@ class GalacticEmpire {
 				$totalArray[$totalMats] = $coordParts."<-- farm";
 							
 			} else {
+				
+				
 			
 				
 				if($updateDB){
