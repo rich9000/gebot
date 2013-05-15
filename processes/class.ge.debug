@@ -110,4 +110,2904 @@ Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
 									7 Deploy (On the way)<br/>
 									<small>Destination: [3:49:8]</small> 
 									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176162','#s3',true,'slide');">
+									<small class="counter">00m 51s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:7:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176155','#s3',true,'slide');">
+									<small class="counter">00m 39s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:7:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176160','#s3',true,'slide');">
+									<small class="counter">00m 45s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:7:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176153','#s3',true,'slide');">
+									<small class="counter">00m 35s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [1:2:9]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176196','#s3',true,'slide');">
+									<small class="counter">00m 49s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:18:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176193','#s3',true,'slide');">
+									<small class="counter">00m 43s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:17:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176189','#s3',true,'slide');">
+									<small class="counter">00m 33s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:7:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176190','#s3',true,'slide');">
+									<small class="counter">00m 37s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [1:17:3]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176217','#s3',true,'slide');">
+									<small class="counter">00m 39s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:30:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176219','#s3',true,'slide');">
+									<small class="counter">00m 43s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:40:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176212','#s3',true,'slide');">
+									<small class="counter">00m 29s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:25:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176214','#s3',true,'slide');">
+									<small class="counter">00m 35s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176236','#s3',true,'slide');">
+									<small class="counter">00m 29s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:45:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176243','#s3',true,'slide');">
+									<small class="counter">00m 31s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176234','#s3',true,'slide');">
+									<small class="counter">00m 23s</small>
+									3 Spy (Returning)<br/>
+									<small>Destination: [1:45:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176237','#s3',true,'slide');">
+									<small class="counter">00m 33s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [1:55:7]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176263','#s3',true,'slide');">
+									<small class="counter">00m 35s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:128:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176256','#s3',true,'slide');">
+									<small class="counter">00m 15s</small>
+									2 Spy (Returning)<br/>
+									<small>Destination: [1:105:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176261','#s3',true,'slide');">
+									<small class="counter">00m 29s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:125:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176266','#s3',true,'slide');">
+									<small class="counter">00m 45s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [1:143:8]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176287','#s3',true,'slide');">
+									<small class="counter">00m 55s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:211:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176284','#s3',true,'slide');">
+									<small class="counter">00m 41s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:180:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176279','#s3',true,'slide');">
+									<small class="counter">00m 27s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:143:11]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176298','#s3',true,'slide');">
+									<small class="counter">00m 49s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:214:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176299','#s3',true,'slide');">
+									<small class="counter">00m 55s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:217:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176300','#s3',true,'slide');">
+									<small class="counter">01m 01s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:217:9]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176318','#s3',true,'slide');">
+									<small class="counter">00m 57s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176315','#s3',true,'slide');">
+									<small class="counter">00m 43s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:218:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176319','#s3',true,'slide');">
+									<small class="counter">01m 03s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176320','#s3',true,'slide');">
+									<small class="counter">01m 09s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [1:262:6]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176336','#s3',true,'slide');">
+									<small class="counter">00m 57s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:263:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176334','#s3',true,'slide');">
+									<small class="counter">00m 51s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:263:3]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176338','#s3',true,'slide');">
+									<small class="counter">01m 03s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176341','#s3',true,'slide');">
+									<small class="counter">01m 11s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [1:267:5]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176364','#s3',true,'slide');">
+									<small class="counter">01m 07s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:289:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176358','#s3',true,'slide');">
+									<small class="counter">01m 01s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [1:289:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176369','#s3',true,'slide');">
+									<small class="counter">01m 13s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [1:289:10]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176400','#s3',true,'slide');">
+									<small class="counter">01m 07s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [1:289:11]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">49m 19s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176724','#s3',true,'slide');">
+									<small class="counter">00m 53s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [2:65:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176706','#s3',true,'slide');">
+									<small class="counter">00m 31s</small>
+									3 Spy (Returning)<br/>
+									<small>Destination: [2:48:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176744','#s3',true,'slide');">
+									<small class="counter">01m 23s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [2:70:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176735','#s3',true,'slide');">
+									<small class="counter">01m 05s</small>
+									5 Spy (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">58m 07s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">36m 35s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176730','#s3',true,'slide');">
+									<small class="counter">00m 59s</small>
+									8 Spy (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176710','#s3',true,'slide');">
+									<small class="counter">00m 37s</small>
+									9 Spy (Returning)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176742','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									10 Spy (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">46m 57s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176737','#s3',true,'slide');">
+									<small class="counter">01m 11s</small>
+									12 Spy (On the way)<br/>
+									<small>Destination: [2:66:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">50m 51s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176715','#s3',true,'slide');">
+									<small class="counter">00m 47s</small>
+									14 Spy (On the way)<br/>
+									<small>Destination: [2:65:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176713','#s3',true,'slide');">
+									<small class="counter">00m 41s</small>
+									15 Spy (Returning)<br/>
+									<small>Destination: [2:65:3]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176777','#s3',true,'slide');">
+									<small class="counter">00m 49s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [2:236:1]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176761','#s3',true,'slide');">
+									<small class="counter">00m 29s</small>
+									2 Spy (Returning)<br/>
+									<small>Destination: [2:101:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">47m 44s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176774','#s3',true,'slide');">
+									<small class="counter">00m 43s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [2:236:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176766','#s3',true,'slide');">
+									<small class="counter">00m 41s</small>
+									5 Spy (On the way)<br/>
+									<small>Destination: [2:111:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176769','#s3',true,'slide');">
+									<small class="counter">00m 41s</small>
+									6 Spy (On the way)<br/>
+									<small>Destination: [2:143:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">56m 32s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">35m 00s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">45m 22s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176771','#s3',true,'slide');">
+									<small class="counter">00m 37s</small>
+									10 Spy (On the way)<br/>
+									<small>Destination: [2:198:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">49m 16s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176772','#s3',true,'slide');">
+									<small class="counter">00m 41s</small>
+									12 Spy (On the way)<br/>
+									<small>Destination: [2:215:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176765','#s3',true,'slide');">
+									<small class="counter">00m 35s</small>
+									13 Spy (Returning)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176798','#s3',true,'slide');">
+									<small class="counter">00m 07s</small>
+									1 Spy (Returning)<br/>
+									<small>Destination: [2:236:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176802','#s3',true,'slide');">
+									<small class="counter">00m 13s</small>
+									2 Spy (Returning)<br/>
+									<small>Destination: [2:256:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176800','#s3',true,'slide');">
+									<small class="counter">00m 13s</small>
+									3 Spy (Returning)<br/>
+									<small>Destination: [2:236:15]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176815','#s3',true,'slide');">
+									<small class="counter">00m 41s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [2:266:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">46m 11s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">54m 59s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176807','#s3',true,'slide');">
+									<small class="counter">00m 23s</small>
+									7 Spy (Returning)<br/>
+									<small>Destination: [2:266:3]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">33m 27s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176804','#s3',true,'slide');">
+									<small class="counter">00m 17s</small>
+									9 Spy (Returning)<br/>
+									<small>Destination: [2:265:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">43m 49s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176812','#s3',true,'slide');">
+									<small class="counter">00m 35s</small>
+									11 Spy (On the way)<br/>
+									<small>Destination: [2:266:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">47m 43s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176809','#s3',true,'slide');">
+									<small class="counter">00m 29s</small>
+									13 Spy (On the way)<br/>
+									<small>Destination: [2:266:4]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176846','#s3',true,'slide');">
+									<small class="counter">00m 23s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [2:310:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">45m 01s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176848','#s3',true,'slide');">
+									<small class="counter">00m 27s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [2:317:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176839','#s3',true,'slide');">
+									<small class="counter">00m 15s</small>
+									4 Spy (Returning)<br/>
+									<small>Destination: [2:277:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">53m 49s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">32m 17s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">42m 39s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176844','#s3',true,'slide');">
+									<small class="counter">00m 17s</small>
+									8 Spy (Returning)<br/>
+									<small>Destination: [2:308:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">46m 33s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176841','#s3',true,'slide');">
+									<small class="counter">00m 11s</small>
+									10 Spy (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176866','#s3',true,'slide');">
+									<small class="counter">00m 37s</small>
+									1 Spy (On the way)<br/>
+									<small>Destination: [2:404:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176869','#s3',true,'slide');">
+									<small class="counter">00m 43s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [2:404:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176864','#s3',true,'slide');">
+									<small class="counter">00m 27s</small>
+									3 Spy (On the way)<br/>
+									<small>Destination: [2:389:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">43m 53s</small>
+									4 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">52m 41s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">31m 09s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">41m 31s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176863','#s3',true,'slide');">
+									<small class="counter">00m 17s</small>
+									8 Spy (Returning)<br/>
+									<small>Destination: [2:369:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">45m 25s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176862','#s3',true,'slide');">
+									<small class="counter">00m 05s</small>
+									10 Spy (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 11m 11s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177088','#s3',true,'slide');">
+									<small class="counter">00m 35s</small>
+									2 Spy (On the way)<br/>
+									<small>Destination: [3:92:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177078','#s3',true,'slide');">
+									<small class="counter">00m 05s</small>
+									3 Spy (Returning)<br/>
+									<small>Destination: [3:29:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">33m 00s</small>
+									4 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 13m 13s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177083','#s3',true,'slide');">
+									<small class="counter">00m 13s</small>
+									6 Spy (Returning)<br/>
+									<small>Destination: [3:40:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">41m 48s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">20m 16s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177086','#s3',true,'slide');">
+									<small class="counter">00m 27s</small>
+									9 Spy (On the way)<br/>
+									<small>Destination: [3:82:15]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">30m 38s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177081','#s3',true,'slide');">
+									<small class="counter">00m 07s</small>
+									11 Spy (Returning)<br/>
+									<small>Destination: [3:40:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">41m 49s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">34m 32s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">56m 49s</small>
+									14 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 12m 29s</small>
+									15 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">42m 13s</small>
+									16 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 11m 05s</small>
+									17 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 10m 21s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">32m 10s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 12m 23s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177099','#s3',true,'slide');">
+									<small class="counter">00m 11s</small>
+									4 Spy (Returning)<br/>
+									<small>Destination: [3:92:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177105','#s3',true,'slide');">
+									<small class="counter">00m 31s</small>
+									5 Spy (On the way)<br/>
+									<small>Destination: [3:99:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">40m 58s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">19m 26s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">29m 48s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">40m 59s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">33m 42s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177103','#s3',true,'slide');">
+									<small class="counter">00m 25s</small>
+									11 Spy (On the way)<br/>
+									<small>Destination: [3:97:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">55m 59s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177102','#s3',true,'slide');">
+									<small class="counter">00m 17s</small>
+									13 Spy (Returning)<br/>
+									<small>Destination: [3:92:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 11m 39s</small>
+									14 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">41m 23s</small>
+									15 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 10m 15s</small>
+									16 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177107','#s3',true,'slide');">
+									<small class="counter">00m 37s</small>
+									17 Spy (On the way)<br/>
+									<small>Destination: [3:100:8]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 09m 25s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">31m 14s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 11m 27s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177122','#s3',true,'slide');">
+									<small class="counter">00m 25s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [3:100:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">40m 02s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">18m 30s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177127','#s3',true,'slide');">
+									<small class="counter">00m 31s</small>
+									7 Spy (On the way)<br/>
+									<small>Destination: [3:100:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">28m 52s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">40m 03s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177129','#s3',true,'slide');">
+									<small class="counter">00m 41s</small>
+									10 Spy (On the way)<br/>
+									<small>Destination: [3:113:1]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">32m 46s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177120','#s3',true,'slide');">
+									<small class="counter">00m 19s</small>
+									12 Spy (Returning)<br/>
+									<small>Destination: [3:100:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">55m 03s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177116','#s3',true,'slide');">
+									<small class="counter">00m 13s</small>
+									14 Spy (Returning)<br/>
+									<small>Destination: [3:100:1]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 10m 43s</small>
+									15 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">40m 27s</small>
+									16 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 09m 19s</small>
+									17 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 08m 27s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">30m 16s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 10m 29s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177159','#s3',true,'slide');">
+									<small class="counter">00m 59s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [3:199:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">39m 04s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">17m 32s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177154','#s3',true,'slide');">
+									<small class="counter">00m 43s</small>
+									7 Spy (On the way)<br/>
+									<small>Destination: [3:178:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">27m 54s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">39m 05s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">31m 48s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177148','#s3',true,'slide');">
+									<small class="counter">00m 25s</small>
+									11 Spy (Returning)<br/>
+									<small>Destination: [3:145:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">54m 05s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 09m 45s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177155','#s3',true,'slide');">
+									<small class="counter">00m 53s</small>
+									14 Spy (On the way)<br/>
+									<small>Destination: [3:198:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177150','#s3',true,'slide');">
+									<small class="counter">00m 31s</small>
+									15 Spy (On the way)<br/>
+									<small>Destination: [3:146:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">39m 29s</small>
+									16 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 08m 21s</small>
+									17 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 07m 16s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">29m 05s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 09m 18s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177183','#s3',true,'slide');">
+									<small class="counter">00m 43s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [3:214:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177190','#s3',true,'slide');">
+									<small class="counter">01m 03s</small>
+									5 Spy (On the way)<br/>
+									<small>Destination: [3:227:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">37m 53s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177185','#s3',true,'slide');">
+									<small class="counter">00m 49s</small>
+									7 Spy (On the way)<br/>
+									<small>Destination: [3:214:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177181','#s3',true,'slide');">
+									<small class="counter">00m 37s</small>
+									8 Spy (On the way)<br/>
+									<small>Destination: [3:208:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">16m 21s</small>
+									9 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">26m 43s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">37m 54s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">30m 37s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177188','#s3',true,'slide');">
+									<small class="counter">00m 57s</small>
+									13 Spy (On the way)<br/>
+									<small>Destination: [3:218:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">52m 54s</small>
+									14 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 08m 34s</small>
+									15 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">38m 18s</small>
+									16 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 07m 10s</small>
+									17 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 06m 17s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">28m 06s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 08m 19s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177190','#s3',true,'slide');">
+									<small class="counter">00m 04s</small>
+									4 Spy (Returning)<br/>
+									<small>Destination: [3:227:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">36m 54s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">15m 22s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">25m 44s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">36m 55s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">29m 38s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">51m 55s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 07m 35s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">37m 19s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 06m 11s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177210','#s3',true,'slide');">
+									<small class="counter">01m 05s</small>
+									14 Spy (On the way)<br/>
+									<small>Destination: [3:229:7]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 05m 52s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">27m 41s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 07m 54s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">36m 29s</small>
+									4 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">14m 57s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">25m 19s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">36m 30s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">29m 13s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">51m 30s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177219','#s3',true,'slide');">
+									<small class="counter">01m 05s</small>
+									10 Spy (On the way)<br/>
+									<small>Destination: [3:230:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 07m 10s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">36m 54s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 05m 46s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177210','#s3',true,'slide');">
+									<small class="counter">00m 40s</small>
+									14 Spy (On the way)<br/>
+									<small>Destination: [3:229:7]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 04m 49s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">26m 38s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 06m 51s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">35m 26s</small>
+									4 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">13m 54s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">24m 16s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">35m 27s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">28m 10s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">50m 27s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177219','#s3',true,'slide');">
+									<small class="counter">00m 02s</small>
+									10 Spy (Returning)<br/>
+									<small>Destination: [3:230:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 06m 07s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">35m 51s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 04m 43s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177235','#s3',true,'slide');">
+									<small class="counter">01m 15s</small>
+									14 Spy (On the way)<br/>
+									<small>Destination: [3:295:10]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 04m 26s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">26m 15s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 06m 28s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177241','#s3',true,'slide');">
+									<small class="counter">01m 15s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [3:299:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">35m 03s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">13m 31s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">23m 53s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">35m 04s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">27m 47s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">50m 04s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 05m 44s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">35m 28s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 04m 20s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177235','#s3',true,'slide');">
+									<small class="counter">00m 52s</small>
+									14 Spy (On the way)<br/>
+									<small>Destination: [3:295:10]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 03m 11s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">25m 00s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 05m 13s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177266','#s3',true,'slide');">
+									<small class="counter">01m 15s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [3:305:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">33m 48s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">12m 16s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">22m 38s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">33m 49s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">26m 32s</small>
+									9 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">48m 49s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 04m 29s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">34m 13s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 03m 05s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">01h 01m 32s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">23m 21s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 03m 34s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">32m 09s</small>
+									4 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">10m 37s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">20m 59s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">32m 10s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">24m 53s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177304','#s3',true,'slide');">
+									<small class="counter">01m 15s</small>
+									9 Spy (On the way)<br/>
+									<small>Destination: [3:307:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">47m 10s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 02m 50s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">32m 34s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">01h 01m 26s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">59m 53s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">21m 42s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 01m 55s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177336','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [3:309:7]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">30m 30s</small>
+									5 Attack (On the way)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">08m 58s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">19m 20s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">30m 31s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">23m 14s</small>
+									9 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">45m 31s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">01h 01m 11s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">30m 55s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">59m 47s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">58m 12s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">20m 01s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">01h 00m 14s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">28m 49s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177382','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									5 Spy (On the way)<br/>
+									<small>Destination: [3:311:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">07m 17s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">17m 39s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">28m 50s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">21m 33s</small>
+									9 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">43m 50s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">59m 30s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">29m 14s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">58m 06s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">56m 31s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">18m 20s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">58m 33s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">27m 08s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">05m 36s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">15m 58s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">27m 09s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">19m 52s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">42m 09s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177434','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									10 Spy (On the way)<br/>
+									<small>Destination: [3:312:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">57m 49s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">27m 33s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">56m 25s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">54m 50s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">16m 39s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">56m 52s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">25m 27s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">03m 55s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">14m 17s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">25m 28s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">18m 11s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">40m 28s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177480','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									10 Spy (On the way)<br/>
+									<small>Destination: [3:312:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">56m 08s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">25m 52s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">54m 44s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">53m 09s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">14m 58s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">55m 11s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">23m 46s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">02m 14s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">12m 36s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">23m 47s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">16m 30s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177518','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									9 Spy (On the way)<br/>
+									<small>Destination: [3:312:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">38m 47s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">54m 27s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">24m 11s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">53m 03s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">51m 28s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">13m 17s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">53m 30s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">22m 05s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177561','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									5 Spy (On the way)<br/>
+									<small>Destination: [3:312:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176637','#s3',true,'slide');">
+									<small class="counter">00m 33s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:76:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">10m 55s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">22m 06s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">14m 49s</small>
+									9 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">37m 06s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">52m 46s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">22m 30s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">51m 22s</small>
+									13 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">50m 33s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">12m 22s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">52m 35s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">21m 10s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177561','#s3',true,'slide');">
+									<small class="counter">00m 22s</small>
+									5 Spy (Returning)<br/>
+									<small>Destination: [3:312:11]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">10m 00s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">21m 11s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">13m 54s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">36m 11s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">51m 51s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">21m 35s</small>
+									11 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">50m 27s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">49m 49s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">11m 38s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">51m 51s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">20m 26s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">09m 16s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">20m 27s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">13m 10s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177594','#s3',true,'slide');">
+									<small class="counter">01m 17s</small>
+									8 Spy (On the way)<br/>
+									<small>Destination: [3:320:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">35m 27s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">51m 07s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">20m 51s</small>
+									11 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">49m 43s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">48m 08s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">09m 57s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">50m 10s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">18m 45s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">07m 35s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">18m 46s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">11m 29s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">33m 46s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">49m 26s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">19m 10s</small>
+									10 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177629','#s3',true,'slide');">
+									<small class="counter">01m 19s</small>
+									11 Spy (On the way)<br/>
+									<small>Destination: [3:324:5]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">48m 02s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">46m 25s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">08m 14s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">48m 27s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177668','#s3',true,'slide');">
+									<small class="counter">01m 19s</small>
+									4 Spy (On the way)<br/>
+									<small>Destination: [3:325:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">17m 02s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">05m 52s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">17m 03s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">09m 46s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">32m 03s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">47m 43s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">17m 27s</small>
+									11 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">46m 19s</small>
+									12 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">44m 42s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">06m 31s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">46m 44s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">15m 19s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176655','#s3',true,'slide');">
+									<small class="counter">04m 09s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:264:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">15m 20s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">08m 03s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">30m 20s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">46m 00s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">15m 44s</small>
+									10 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">44m 36s</small>
+									11 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">40m 02s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176679','#s3',true,'slide');">
+									<small class="counter">01m 51s</small>
+									2 Attack (Returning)<br/>
+									<small>Destination: [1:260:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">42m 04s</small>
+									3 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">10m 39s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">10m 40s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">03m 23s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">25m 40s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">41m 20s</small>
+									8 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">11m 04s</small>
+									9 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">39m 56s</small>
+									10 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">37m 46s</small>
+									1 Attack (On the way)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">39m 48s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">08m 23s</small>
+									3 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">08m 24s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176669','#s3',true,'slide');">
+									<small class="counter">01m 07s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [1:255:6]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">23m 24s</small>
+									6 Attack (Returning)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">39m 04s</small>
+									7 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">08m 48s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">37m 40s</small>
+									9 Attack (On the way)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
+**END RESPONSE***** sendGetRequest(/game.php?page=fleet&mode=flying, = false, = false) ***
+
+** SENT MESSAGE **
+GET /game.php?page=fleet&mode=flying&uuid=63339-33942513251521e5573b4d5.49296834 HTTP/1.0
+Host: ge2.seazonegames.com
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html, */*
+x-att-deviceid: SAMSUNG-SGH-I747/I747UCDLK3
+x-wap-profile: http://wap.samsungmobile.com/uaprof/SGH-I747.xml
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Language: en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Cookie: PHPSESSID=o0mn5u9uv0ala1m66tpi0q0sj1; valid=1
+
+
+** END SENT MESSAGE **
+
+** RESPONSE **
+<div class="toolbar"><h1>Flying Fleet</h1><a class="back" onclick="jQT.goBack();">Back</a></div><div class="overview_fleet"><ul class="plastic"><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177051','#s3',true,'slide');">
+									<small class="counter">36m 16s</small>
+									1 Attack (Returning)<br/>
+									<small>Destination: [2:66:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177031','#s3',true,'slide');">
+									<small class="counter">38m 18s</small>
+									2 Attack (On the way)<br/>
+									<small>Destination: [2:54:10]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19176697','#s3',true,'slide');">
+									<small class="counter">06m 53s</small>
+									3 Attack (Returning)<br/>
+									<small>Destination: [1:27:8]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177021','#s3',true,'slide');">
+									<small class="counter">06m 54s</small>
+									4 Attack (Returning)<br/>
+									<small>Destination: [2:308:9]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177036','#s3',true,'slide');">
+									<small class="counter">21m 54s</small>
+									5 Attack (Returning)<br/>
+									<small>Destination: [2:111:12]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177072','#s3',true,'slide');">
+									<small class="counter">37m 34s</small>
+									6 Attack (On the way)<br/>
+									<small>Destination: [2:65:13]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177065','#s3',true,'slide');">
+									<small class="counter">07m 18s</small>
+									7 Attack (Returning)<br/>
+									<small>Destination: [2:350:4]</small> 
+									</div></li><li class="arrow"><div class="custom" onclick="loadPage('game.php?page=fleet&mode=flying&fleet=19177045','#s3',true,'slide');">
+									<small class="counter">36m 10s</small>
+									8 Attack (Returning)<br/>
+									<small>Destination: [2:65:14]</small> 
+									</div></li></ul></div>
 **END RESPONSE**

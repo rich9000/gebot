@@ -36,10 +36,15 @@ $checkGalaxies = array(1,2,3,4);
 //$sortColumn = 'crystal';
 //$sortColumn = 'deuterium';
 $sortColumn = 'total';
+
 $minSortColumn = 1200;// numbers are in thousands, so 1200 = 1.2M
+
 $overRideMinWithTotal = 0; // if you use a sort column other then 'total' you can override if the total is creater then this value, 0 for don't check.
+
 $maxDistance = 250;
+
 $overRideMaxDistanceWithTotal = 2000; // override max distance with total
+
 $overRideMaxDistanceWithSortColumn = 0; // override max distance with Sort column
 
 $fleetSlotsToSave = 1; // number of fleet slots to save for fleet save etc. 
