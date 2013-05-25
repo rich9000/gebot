@@ -1,10 +1,12 @@
-<?/**
+<?
+/**
  * Galactic Empires is a class containing information about and tools for the users account.
  * 
  * Written by Richard Carroll
  * v1.0
  *
- */
+**/
+
 class GalacticEmpire {
 		
 	// setup stuff
@@ -14,7 +16,7 @@ class GalacticEmpire {
 	 * @var string
 	 */
 	private $user;
-	
+			
 	/**
 	 * account password. not currently used
 	 *
@@ -132,6 +134,18 @@ class GalacticEmpire {
 	 * @var string
 	 */
 	public $debugfile = 'class.ge.debug';
+	
+	
+	
+	/**
+	 * File we store the galaxy scan array serialized in
+	 *
+	 * @var string
+	 */
+	public $galaxyScanArrayFile = '/usr/local/www/apache22/data/bot/data/cron_galaxy_scan.store';
+	
+	
+	
 	
 	/**
 	 * Galactic Empire Constructor
@@ -1009,6 +1023,194 @@ class GalacticEmpire {
 		
 	}	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	function probeAll($galaxy,$rank = 1100,$firstSystem=1,$lastSystem=500){
+		
+		$probesToSend = 10;
+				
+		$this->changeSpyPlanet($galaxy);
+				
+		$this->scanFleetInfo($this->currentPlanet);
+		
+		$fleetSlotsAvailable = $this->fleetSlotsTotal - $this->fleetSlotsUsed;
+		
+		$query = "select * from bot_planets where fk_p_rank < $rank and planet_galaxy = $galaxy and planet_system >= $firstSystem and planet_system <= $lastSystem order by planet_system asc";
+		
+		$sql = mysql_query($query);
+		
+		$count = mysql_num_rows($sql);
+		
+		echo "Probing $count Systems $firstSystem-$lastSystem in galaxy $galaxy\n";
+		
+		while ($planet = mysql_fetch_assoc($sql)) {			
+										
+			$system = $planet['planet_system'];
+			$position = $planet['planet_position'];	
+			
+			echo $count--."Probes Inbound -> $galaxy:$system:$position \n";			
+			
+			$command = "/FleetAjax.php?action=send&thisgalaxy=1&thissystem=1&thisplanet=1&thisplanettype=1&mission=6&galaxy=$galaxy&system=$system&planet=$position&planettype=1&ship210=$probesToSend";	
+			
+			$response = $this->sendGetRequest($command);
+			
+			//echo $response;
+			//Fleet has been sent<br/> 10 Espionage Probe at 1:336:7...Probes Inbound to 1:336:7
+			$probeCount = $this->getStrBetween($response,'Fleet has been sent<br/> ',' Espionage Probe');
+			
+			if(!$probeCount){
+			
+				echo "Probe Count False -- Might be a problem.\n";
+				
+				echo $response."\n";
+				
+				
+				if($response == "Player under noob protection."){
+					
+					echo "NOOOBIE!!!! Continueing Updating DB\n";
+					
+					$time = time();
+					
+					$query = "update bot_planets set planet_farm = 'no', planet_udate = '$time'  where planet_coords = '$galaxy:$system:$position'";
+					$rslt = mysql_query($query);
+					
+					if(!$rslt || mysql_affected_rows() == 0){
+						
+						echo "bad result or no affected rows on update\n";
+						echo $query;
+						echo "\n";
+						
+					}
+					
+					continue;
+					
+				} else if($response == 'The planet does not exist'){
+					
+					echo "Planet Gone!!!! Removing from  DB\n";
+					
+					$query = "delete from bot_planets where planet_coords = '$galaxy:$system:$position'";
+					$rslt = mysql_query($query);
+					
+					if(!$rslt || mysql_affected_rows() == 0){
+						
+						echo "bad result or no affected rows on delete\n";
+						echo $query;
+						echo "\n";
+						
+					}
+					
+				} else if( $this->getStrBetween($response,'; ',' | ') == 'No sufficient probes'	){
+										
+					$secondWait = $this->getNextOpenFleetSlotSeconds();
+					
+					//echo $response."\n";
+					
+					echo "Ran out of probes, going to wait till next fleet comes in and try again\n";
+					
+					$this->sleep($secondWait + 3);
+					
+					$response = $this->sendGetRequest($command);
+					echo "Tried again: $response\n";
+					
+					
+					
+				}else if($response == 'You have no more slots available fleet'){
+					
+					echo "Ran out of fleet slots!";
+					
+					$secondWait = $this->getNextOpenFleetSlotSeconds();
+					
+					echo $response."\n";
+					
+					echo "Going to wait until next fleet comes in and try again\n";
+					
+					$this->sleep($secondWait + 3);
+					
+					$response = $this->sendGetRequest($command);
+					echo "Tried again: $response\n";
+					
+					
+				} else {
+					
+					
+					echo "Probe Count False -- Might be a problem.\n";
+				
+					echo $response."\n";
+				}
+				
+			
+			} else {
+				
+				
+				if($probeCount < $probesToSend){
+					
+					echo "Running out of probes\n";
+					echo $response;
+					
+					$secondWait = $this->getNextOpenFleetSlotSeconds();
+					
+					echo $response."\n";
+					
+					echo "Going to wait until next fleet comes in and continue\n";
+					
+					$this->sleep($secondWait + 3);
+					
+					$sleepTime++;
+				
+				} else {
+					
+					
+					
+					//sleep($sleepTime);
+					
+				}
+			}
+
+		}		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	function probeInactives($galaxy,$rank = 1100,$firstSystem=1,$lastSystem=500){
 		
 		$probesToSend = 10;
@@ -1235,14 +1437,23 @@ class GalacticEmpire {
 	
 	
 	function scanFromScanStore(){
-						
-		$systems = unserialize( file_get_contents('/usr/local/www/apache22/data/framework/plugins/bot/processes/cron_galaxy_scan.store') ); 
-		$scanArray = array_pop($systems);
-		array_unshift($systems,$scanArray);
-		$datastring = serialize($systems);
-		file_put_contents('/usr/local/www/apache22/data/framework/plugins/bot/processes/cron_galaxy_scan.store',$datastring);
-		
-		$this->scanGalaxy($scanArray[0],$scanArray[1],$scanArray[2]);
+			
+		if( file_exists('/usr/local/www/apache22/data/framework/plugins/bot/processes/cron_galaxy_scan.store') ){
+			
+			$systems = unserialize( file_get_contents('/usr/local/www/apache22/data/framework/plugins/bot/processes/cron_galaxy_scan.store') ); 
+			$scanArray = array_pop($systems);
+			array_unshift($systems,$scanArray);
+			$datastring = serialize($systems);
+			file_put_contents('/usr/local/www/apache22/data/framework/plugins/bot/processes/cron_galaxy_scan.store',$datastring);
+			
+			$this->scanGalaxy($scanArray[0],$scanArray[1],$scanArray[2]);
+			
+		} else {
+			
+			echo "File does not exist: '/usr/local/www/apache22/data/framework/plugins/bot/processes/cron_galaxy_scan.store'\n";
+			echo "Not going to do a galaxy scan.\n";
+			
+		}
 				
 	}
 	
@@ -1709,7 +1920,19 @@ class GalacticEmpire {
 
 	
 	function scanSpyReport($updateDB = true,$showList = false,$logfile = false ){
-		
+
+		$defenseValue = array();	
+		$defenseValue['Rocket Launcher'] = 1;
+		$defenseValue['Light Laser'] = 1;
+		$defenseValue['Heavy Laser'] = 4;
+		$defenseValue['Gauss Cannon'] = 18;
+		$defenseValue['Ion Cannon'] = 4;
+		$defenseValue['Plasma Turret'] = 65;
+		$defenseValue['Small Shield Dome'] = 10;
+		$defenseValue['Large Shield Dome'] = 50;
+		$defenseValue['Anti-Ballistic Missiles'] = 0;
+		$defenseValue['Interplanetary Missiles'] = 0;
+				
 		$attackList = array();
 		$totalArray = array();
 		
@@ -1932,7 +2155,7 @@ class GalacticEmpire {
 				
 				foreach ($dataArray['Defense'] as $key => $val){
 					
-					$defense_count += $val;
+					$defense_count += $val*$defenseValue[$key];
 					
 				}
 				
@@ -1945,7 +2168,7 @@ class GalacticEmpire {
 			
 			
 			// update fleet and defense info into db		
-			$query = "update bot_planets set planet_defense_count='$defense_count', planet_fleet_count = 'planet_count', planet_defense_array = '$defensestring', planet_fleet_array = '$fleetstring' where planet_coords = '{$coords[0]}:{$coords[1]}:{$coords[2]}'";
+			$query = "update bot_planets set planet_defense_count='$defense_count', planet_fleet_count = '$fleet_count', planet_defense_array = '$defensestring', planet_fleet_array = '$fleetstring' where planet_coords = '{$coords[0]}:{$coords[1]}:{$coords[2]}'";
 			
 			//echo "$query\n";
 			// WE ALWAYS WANT TO UPDATE THIS ONE
@@ -1996,7 +2219,7 @@ class GalacticEmpire {
 					}					
 				}
 							
-				file_put_contents('log/probed_info.log',$logdata, FILE_APPEND);
+				file_put_contents($logfile,$logdata, FILE_APPEND);
 							
 			}
 						

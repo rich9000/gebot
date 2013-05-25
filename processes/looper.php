@@ -29,7 +29,7 @@ $uuid = $config['uuid'];
 
 
 // galaxies to farm
-$checkGalaxies = array(1,2,3,4);
+$checkGalaxies = array(3,4,2,1);
 
 // Pick a sort column;
 //$sortColumn = 'metal';
@@ -37,7 +37,7 @@ $checkGalaxies = array(1,2,3,4);
 //$sortColumn = 'deuterium';
 $sortColumn = 'total';
 
-$minSortColumn = 1200;// numbers are in thousands, so 1200 = 1.2M
+$minSortColumn = 1000;// numbers are in thousands, so 1200 = 1.2M
 
 $overRideMinWithTotal = 0; // if you use a sort column other then 'total' you can override if the total is creater then this value, 0 for don't check.
 
@@ -47,7 +47,8 @@ $overRideMaxDistanceWithTotal = 2000; // override max distance with total
 
 $overRideMaxDistanceWithSortColumn = 0; // override max distance with Sort column
 
-$fleetSlotsToSave = 1; // number of fleet slots to save for fleet save etc. 
+$fleetSlotsToSave = 3; // number of fleet slots to save for fleet save etc. Probes don't count
+
 
 // ******************* END EDIT STUFF IN HERE *********************
 
@@ -129,7 +130,7 @@ while(1){
 	$attackList[$attackcount]['planet'] = $coords[2];
 	$attackList[$attackcount]['coords'] = "{$coords[0]}:{$coords[1]}:{$coords[2]}"; 
 	*/	
-	$attacklist = $ge ->scanSpyReport(true,true);
+	$attacklist = $ge ->scanSpyReport(true,true,'../log/probereport.log');
 	
 	// we will make a new list and have the index be the colomn we want to sort by. 
 	// for now its total but we could change it to the resource we need.

@@ -64,13 +64,13 @@ $ge->deleteMessageCat('0');
 //$ge->probeInactives(3);
 //$ge->probeInactives(4);
 
-$ge->probeInactives(3,1100,1,100);
+//$ge->probeInactives(3,1100,1,100);
 
 
-//$ge->probeFarmers(1);
-//$ge->probeFarmers(2);
-//$ge->probeFarmers(3);
-//$ge->probeFarmers(4);
+$ge->probeFarmers(1);
+$ge->probeFarmers(2);
+$ge->probeFarmers(3);
+$ge->probeFarmers(4);
 
 echo "Sleeping for a bit!\n";
 $ge->sleep(0,1,0,0);
@@ -108,7 +108,7 @@ while($target = array_pop($list)){
 		
 	echo "Attacking: ".$target['coords']. " Mats: ".$target['total']."\n";
 		
-	if($target['total'] < 1200) {
+	if($target['total'] < 1000) {
 				
 		echo "Less then 1200k - not worth my time\n";
 		continue;
@@ -255,6 +255,8 @@ $ge->sleep($timeDelay);
 
 echo "Running round 2!!!";
 
-//exec('php test.php');
+sleep(300);
+
+exec('php test.php');
 
 exit;
