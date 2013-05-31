@@ -3,12 +3,12 @@
 $config = array();
 
 
-$config['user'] = 'rich9000';
-$config['password'] = 'fish1234';
+$config['user'] = 'blahblah';
+$config['password'] = 'password1234';
 
-$config['uuid'] = '63339-33942513251521e5573b4d5.49296834';
+$config['uuid'] = 'number-biggernumber-asdfasdfadsf';
 
-$config['phpsessid'] = 'o0mn5u9uv0ala1m66tpi0q0sj1';
+$config['phpsessid'] = 'sessionidchangeme';
 
 $config['host'] = 'ge2.seazonegames.com';
 
